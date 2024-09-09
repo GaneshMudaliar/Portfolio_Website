@@ -12,7 +12,7 @@ export default function Hero() {
 
 
     return (
-     <section className='flex flex-col md:flex-row px-5 py-44 justify-center'>
+     <section className='flex flex-col md:flex-row px-5 pt-60 py-24 justify-center'>
        <div className='md:w-1/2 flex flex-col'>
             <h1 className=' text-white text-6xl'>Hi, 
 
