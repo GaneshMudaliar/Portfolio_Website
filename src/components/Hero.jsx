@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa";
 
 export default function Hero() {
     const config  = {
-        subtitle: 'Front End Developer',
+        subtitle: 'Full Stack Developer',
         social: {
             github : 'https://github.com/GaneshMudaliar'
         }

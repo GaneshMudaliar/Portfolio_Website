@@ -3,8 +3,9 @@ import React from 'react'
 
 const About = () => {
   const config  = {
-    line1: 'Hi, My name is Ganesh Mudaliar. I am a Front End Web developer. I built beautiful Websites with React.js , Tailwind CSS',
-    line2: 'I am proficient in Frontend skills like Html, Css, Tailwind CSS, Javascript, React.js, Redux, Redux Tool Kit and many more.'
+    line1: 'Hi, My name is Ganesh Mudaliar from Ahmedabad, Full Stack Web developer.',
+    line2:'I’m passionate about coding, problem-solving, and learning new technologies and exploring web development trends.',
+    line3: 'I developed a solid foundation in both front-end and back-end technologies, including HTML, CSS, JavaScript, and frameworks like React and Node.js.'
 }
 
 return (
@@ -18,13 +19,15 @@ return (
             <h1 className='text-4xl mb-5 w-auto font-bold'>About Me</h1>
             <p className='pb-5'>{config.line1}</p>
             <p className='pb-5'>{config.line2}</p>
+            <p className='pb-5'>{config.line3}</p>
+
         
         </div>
     </div>
 </section>
 
 )
-''
+
 }
 
 export default About;
