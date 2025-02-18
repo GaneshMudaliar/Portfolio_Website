@@ -5,7 +5,8 @@ const About = () => {
   const config  = {
     line1: 'Hi, My name is Ganesh Mudaliar from Ahmedabad, Full Stack Web developer.',
     line2:'I’m passionate about coding, problem-solving, and learning new technologies and exploring web development trends.',
-    line3: 'I developed a solid foundation in both front-end and back-end technologies, including HTML, CSS, JavaScript, and frameworks like React and Node.js.'
+    line3: 'I developed a solid foundation in both front-end and back-end technologies, including HTML, CSS, JavaScript, React, Express, MongoDB and Node.js.',
+    line4: "Other Skills :  Redux, RestAPI, MVC , MySql, Responsive Design"
 }
 
 return (
@@ -20,6 +21,8 @@ return (
             <p className='pb-5'>{config.line1}</p>
             <p className='pb-5'>{config.line2}</p>
             <p className='pb-5'>{config.line3}</p>
+            <p className='pb-5'>{config.line4}</p>
+
 
         
         </div>
