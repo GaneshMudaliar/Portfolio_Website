@@ -5,7 +5,8 @@
 @tailwind utilities;
 
 body {
-  background-color: rgb(11,26,51);
+  /* background-color: rgb(11,26,51); */
+  background-color: #ffffff;
   font-family: "Poppins", sans-serif;
 }
 .bg-nav {

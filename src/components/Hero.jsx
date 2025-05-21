@@ -14,7 +14,7 @@ export default function Hero() {
     return (
      <section className='flex flex-col md:flex-row px-5 pt-60 py-24 justify-center'>
        <div className='md:w-1/2 flex flex-col'>
-            <h1 className=' text-white text-6xl'>Hi, 
+            <h1 className=' text-blue text-6xl'>Hi, 
 
             <br/>
              I'm Ganesh Mudaliar 
@@ -26,7 +26,7 @@ export default function Hero() {
                 
             </div>
        </div>
-       <img className='md:w-1/3 rounded-lg' src={HeroImg} />
+       {/* <img className='md:w-1/3 rounded-lg' src={HeroImg} /> */}
     </section>
     )
 }

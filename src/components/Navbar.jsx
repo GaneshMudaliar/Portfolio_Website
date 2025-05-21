@@ -8,9 +8,9 @@ const Navbar = () => {
 
   
   return (
-    <nav className='flex justify-between text-white px-8 py-8 w-full fixed top-0 overflow-hidden h-auto z-10 bg-nav'>
+    <nav className='flex justify-between text-white px-6 py-6 w-full fixed top-0 overflow-hidden h-auto z-10 bg-nav'>
       <div className='text-xl font-bold'>
-      GM
+      Portfolio
       </div>
       <div className='hidden lg:block'>
       <ul className='flex w-full items-center lg:flex-row lg:space-x-6'>

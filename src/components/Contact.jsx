@@ -8,7 +8,7 @@ const Contact = () => {
   }
 
   return (
-    <section id='contact' className='flex flex-col px-5 py-20 text-white'>
+    <section id='contact' className='flex flex-col px-5 py-20 text-blue'>
     <div className='flex flex-col items-center'>
        
         <h1 className='text-4xl mb-5 w-auto font-bold'>Contact Details</h1>
