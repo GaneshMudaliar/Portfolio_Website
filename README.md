@@ -13,6 +13,6 @@ Welcome to my personal developer portfolio built using **React** and **Tailwind 
 - **Vite** or **Create React App** – (mention what you used for setup)
 - **React Router** – For page navigation (if applicable)
 
-# Demo Link
+# LIVE Link
 
 [Portfolio](https://ganesh99portfolio.netlify.app/)
